@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../hrm-web-parent/hrm-web-admin/hrm-web-admin.iml" filepath="$PROJECT_DIR$/../hrm-web-parent/hrm-web-admin/hrm-web-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hrm-web-parent/hrm-web-course/hrm-web-course.iml" filepath="$PROJECT_DIR$/../hrm-web-parent/hrm-web-course/hrm-web-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hrm-web-parent/hrm-web-job/hrm-web-job.iml" filepath="$PROJECT_DIR$/../hrm-web-parent/hrm-web-job/hrm-web-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm-web-parent.iml" filepath="$PROJECT_DIR$/hrm-web-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hrm-web-parent/hrm-web-user/hrm-web-user.iml" filepath="$PROJECT_DIR$/../hrm-web-parent/hrm-web-user/hrm-web-user.iml" />
+    </modules>
+  </component>
+</project>
